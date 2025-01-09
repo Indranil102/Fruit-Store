@@ -6,7 +6,7 @@ const Navbar = () => {
       <div>
         <p className="text-primary">Fruit</p>
         <p>Store</p>
-        <p> Buy </p>
+        
         <FaLeaf/>
       </div>
     </nav>
