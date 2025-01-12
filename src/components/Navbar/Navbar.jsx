@@ -5,9 +5,8 @@ const Navbar = () => {
       {/** Logo sec */}
       <div>
         <p className="text-primary">Fruit</p>
-        <p>Store</p>
-        
-        <FaLeaf/>
+        <p className="text-secondary">Store</p>
+        <FaLeaf className="text-green-500"/>
       </div>
     </nav>
   )
